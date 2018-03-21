@@ -14,4 +14,4 @@ File server based on Node and Express
 
 ## Dev - Run and Hot Reload
 
-    num run start
+    num start
