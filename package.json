@@ -1,0 +1,33 @@
+{
+  "name": "node-file-server",
+  "version": "1.0.0",
+  "description": "Serves files",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviralmishra/node-file-server.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "aviralmishra@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aviralmishra/node-file-server/issues"
+  },
+  "homepage": "https://github.com/aviralmishra/node-file-server#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "compression": "^1.1.0",
+    "cookie-parser": "^1.4.0",
+    "cors": "^2.2.0",
+    "express": "^4.13.3",
+    "morgan": "^1.9.0",
+    "request": "2.75.0"
+  },
+  "devDependencies": {}
+}

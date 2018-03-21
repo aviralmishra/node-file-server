@@ -1,0 +1,15 @@
+# Content
+documents/*
+!documents/research
+
+# Build and Distribution
+dist/*
+
+# Node
+node_modules/
+.npm
+
+# Logs
+logs
+*.log
+npm-debug.log*
